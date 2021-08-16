@@ -12,6 +12,7 @@ struct ContentView: View {
     //  MARK: - PROPERTY
     @State private var notes: [Note] = [Note]()
     @State private var text: String = ""
+    // test
     
     //  MARK: - FUNCTION
     
